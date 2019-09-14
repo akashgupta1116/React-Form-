@@ -1,0 +1,39 @@
+.container{
+    position: absolute;
+}
+.primary{
+    margin-top: 30px;
+}
+.age{
+    margin-left: 45px;
+}
+.address{
+    margin-left: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.gender{
+    padding-left: 58px;
+    padding-right: 30px;
+    margin-left: 10px;
+    
+}
+.formOp{
+    background-color: grey;
+    border:1px solid black;
+    margin-top: 50px;
+    margin-left: 175px;
+    margin-right: 175px;
+    text-align: left;
+    font-style: italic;
+    font-weight:bold;
+}
+.imageUp{
+    position: relative;
+    left: 450px;
+    top: -250px;
+    border:1px solid black;
+    padding-top: 100px;
+    padding-left:20px;
+    padding-bottom: 20px;
+}
